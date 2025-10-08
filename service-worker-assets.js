@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "xuobRGPo",
+  "version": "rxGWrv5W",
   "assets": [
     {
       "hash": "sha256-R1eryqvSxKfvXq3+ckKHmiT4d+mJvQWQLYCe9xkGIZo=",
       "url": "CalendarioSale_WebApp.styles.css"
     },
     {
-      "hash": "sha256-X/ktv5JExCkGlPzoLS3t+EO1YY6DlBJCdpH9H7cI6rY=",
+      "hash": "sha256-jJhRn+atiX1Vidln+EBcou/d06LZJ7Qs163169H0uhA=",
       "url": "_framework/CalendarioSale_WebApp.wasm"
     },
     {
@@ -18,7 +18,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-2DaLkLhOaGDBuQmEhTX4CPoS/YvKB1PoFceUva6x3oQ=",
+      "hash": "sha256-IYzGi954FLAvuctOVGe37vJ9SCgTOMgNkg/yoqUR0kk=",
       "url": "_framework/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -70,7 +70,7 @@ self.assetsManifest = {
       "url": "_framework/System.Collections.Concurrent.wasm"
     },
     {
-      "hash": "sha256-mrSJvDo9pO7SHwLmBSXK9qmgECok6IB9TsU9MuVER3I=",
+      "hash": "sha256-7q0kKstCQH+/SR6Fmt3FmJ3I8FKly3QseEo/+vIVMRM=",
       "url": "_framework/System.Collections.wasm"
     },
     {
@@ -86,7 +86,7 @@ self.assetsManifest = {
       "url": "_framework/System.Diagnostics.DiagnosticSource.wasm"
     },
     {
-      "hash": "sha256-9lTK4nZMos4Vo32tfv62SdnwnM+i0zRPZ36WS/4lIjA=",
+      "hash": "sha256-oeNYuRD/532M9QRHpYUT80r9qSso6dDgY57MxIWGKc4=",
       "url": "_framework/System.Linq.wasm"
     },
     {
@@ -106,7 +106,7 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-jy156FFLHsWjeBe02NKrtOAVmFd1hVgfGmBXQO/uU/w=",
+      "hash": "sha256-1r152aLD2O8D1pRVzcltYShzsrBqEGzcSeoF85DBG0E=",
       "url": "_framework/System.Private.CoreLib.wasm"
     },
     {
@@ -118,7 +118,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-x7nv6jIMhfGLiNSLQkzIdOmizOVw8wLyzs8EZuSe/4Y=",
+      "hash": "sha256-YViCZiQJ3ZI0CgP1HKQ1P+/O3CtA4vADmSJcAy+hNoc=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -134,7 +134,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-F/pAvPqbj9yEyMWppU7NBpXHkUr60LGHWMiXsQXuTTY=",
+      "hash": "sha256-nDdBdNqz055lNja4VV8E5mnBTFP3Sn03NaxkgVnGeNw=",
       "url": "_framework/blazor.boot.json"
     },
     {
