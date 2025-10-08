@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "rxGWrv5W",
+  "version": "9EuucS/x",
   "assets": [
     {
       "hash": "sha256-R1eryqvSxKfvXq3+ckKHmiT4d+mJvQWQLYCe9xkGIZo=",
       "url": "CalendarioSale_WebApp.styles.css"
     },
     {
-      "hash": "sha256-jJhRn+atiX1Vidln+EBcou/d06LZJ7Qs163169H0uhA=",
+      "hash": "sha256-cYD6iqrYusr7rvZsze8eVOiZX0wJ+dvCrKWGWRNF330=",
       "url": "_framework/CalendarioSale_WebApp.wasm"
     },
     {
@@ -134,7 +134,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-nDdBdNqz055lNja4VV8E5mnBTFP3Sn03NaxkgVnGeNw=",
+      "hash": "sha256-kfjoF1etqeOQOKLfu+87AB7HMdtDlP4Yn2TtbFOVwsk=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -206,7 +206,7 @@ self.assetsManifest = {
       "url": "icon-512_old.png"
     },
     {
-      "hash": "sha256-34EVBwoGDx5vqRYa9A9yMCTIGsgSpp2kndxFxCARSYs=",
+      "hash": "sha256-224vIYBSQGLHKeQbNR9TRUloJdffyhXuV5+6TI2qTZg=",
       "url": "index.html"
     },
     {
