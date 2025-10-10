@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CalendarioSale_WebApp",
   "resources": {
-    "hash": "sha256-wctaFgwBTfUPRU83UftddxtHn0X6AH/56vel/SZ3hO4=",
+    "hash": "sha256-OBAuFqOEAvfj1YWYMEsNFyauTjF+H0F6kcyLsU5yZXg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "CalendarioSale_WebApp.wasm": "sha256-cYD6iqrYusr7rvZsze8eVOiZX0wJ+dvCrKWGWRNF330=",
+      "CalendarioSale_WebApp.wasm": "sha256-L0aTA5cVaB3oxcRpx/6QC8QIdK0dhiX4F3vLpTrc6ZU=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-IYzGi954FLAvuctOVGe37vJ9SCgTOMgNkg/yoqUR0kk=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-PvD85gk3s9YnpYFHudkdps94BBriJAKyS+N/ONobP5s=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-g89ZyzgJ823TqwG2mRV0v7+PyPBeygG8NBZzu44GlU4=",
